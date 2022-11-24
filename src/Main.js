@@ -13,7 +13,7 @@ class Main extends Component{
         return(
             <HashRouter>
               <div>
-                    <h1>Animals</h1>
+                    <h1>Animals Created By Adam Agostini</h1>
                     <ul className="header">
                         <li><NavLink exact to="/">Home</NavLink></li>
                         <li><NavLink to="/components/Pages/Frog/Frog">Frog</NavLink></li>
